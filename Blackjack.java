@@ -23,10 +23,10 @@ import javafx.stage.Stage;
 
 public class Blackjack extends Application {
 
-    // Instantiate a shoe
+    // Declare a shoe
     private static Shoe shoe;
 
-    // Instantiate a hand for the dealer and player
+    // Declare a hand for the dealer and player
     private Hand playerHand;
     private Hand dealerHand;
 
